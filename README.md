@@ -1,6 +1,6 @@
 # My Submissions in LeetCode
 To pass a certain coding test,<br>
-I planned to complete all the questions in Top Interview Questions about a week.
+I planned to complete all the questions in Top Interview Questions for 9 days.
 
 ## Programming Language
 - C++ (GCC)
