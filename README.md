@@ -6,7 +6,7 @@ I planned to complete all the questions in Top Interview Questions.
 - C++ (GCC)
 
 ## Top Interview Questions
-- [ ] Array
+- [x] Array
 - [ ] Strings
 - [ ] Linked List
 - [ ] Trees
