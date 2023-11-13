@@ -7,7 +7,6 @@ class Solution:
             currentSum += num
             if currentSum < 0:
                 currentSum = 0
-            if maxSum < currentSum:
-                maxSum = currentSum
+            maxSum = max(maxSum, currentSum)
 
         return maxSum
