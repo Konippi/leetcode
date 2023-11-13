@@ -3,7 +3,7 @@ class Solution:
         currentSum = 0
         maxSum = max(nums)
 
-        for num in nums: 
+        for num in nums:
             currentSum += num
             if currentSum < 0:
                 currentSum = 0
